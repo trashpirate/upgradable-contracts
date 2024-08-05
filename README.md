@@ -1,6 +1,6 @@
 
 
-# EARN STABLE COIN
+# UPGRADABLE CONTRACTS
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/forge-v0.2.0-blue.svg?style=for-the-badge)
@@ -55,7 +55,8 @@ $ make deploy-mainnet
 ### Testnet
 
 **Box V1**: https://sepolia.etherscan.io/address/0xd168cfd6723fddd0e89ff0f4ed109b13d7583e14
-
+**Box V2**: https://sepolia.etherscan.io/address/0xabb26e882221bee0b92aa3a0bc619a561551dd57
+**Proxy**: https://sepolia.etherscan.io/address/0x03085f8ead4fb0746394e9ab85bae67762734471
 ## Author
 
 👤 **Nadina Oates**
